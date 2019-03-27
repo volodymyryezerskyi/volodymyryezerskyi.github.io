@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.trulet.app",
+            "sha256_cert_fingerprints": [
+                "42:74:E1:7F:F6:5A:15:E8:DE:DB:F0:5C:58:09:2E:6B:CA:73:15:9F:8F:35:D8:65:38:BC:06:14:F2:34:A5:85"
+            ]
+        }
+    }
+]

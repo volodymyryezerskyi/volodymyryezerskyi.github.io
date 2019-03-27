@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "YP2SK37U75.com.trulet.app",
+                "paths": [
+                    "/mobile-app/*"
+                ]
+            }
+        ]
+    }
+}
