@@ -7,6 +7,12 @@
                 "paths": [
                     "/mobile-app/*"
                 ]
+            },
+            {
+                "appID": "C4394TWBHS.com.trulet.app",
+                "paths": [
+                    "/mobile-app/*"
+                ]
             }
         ]
     }
